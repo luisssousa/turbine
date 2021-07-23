@@ -1,0 +1,15 @@
+body {
+    background: #000000;
+    color: #c0c0c0;
+    text-align: center;
+}
+
+h1 {
+    color: #DD0000
+}
+.damaged-wrapper {
+    margin-top: 40px;
+}
+.damaged-item {
+    color: #DD0000;
+}
